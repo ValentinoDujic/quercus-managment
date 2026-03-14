@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@theme {
+  --color-quercus-primary: #2c5e3b;
+  --color-quercus-bg: #f4f4f9;
+  --color-quercus-accent: #d49a6a;
+}
